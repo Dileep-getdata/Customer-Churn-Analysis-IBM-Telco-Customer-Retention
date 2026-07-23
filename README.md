@@ -4,7 +4,7 @@ Customer retention is one of the most critical challenges for subscription-based
 
 The project demonstrates an end-to-end data analytics workflow using Python, SQL, Excel, and Power BI, including data cleaning, exploratory data analysis (EDA), KPI development, visualization, and business insights.
 
-##Business Problem:
+#Business Problem:
 
 The telecom company is experiencing customer churn and wants to understand:
 

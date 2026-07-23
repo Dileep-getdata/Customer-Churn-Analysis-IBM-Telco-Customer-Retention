@@ -1,6 +1,6 @@
---XX-- Customer Churn Analysis | IBM Telco Customer Retention --XX--
+# Customer Churn Analysis | IBM Telco Customer Retention 
 ......................................................
-Project Overview:
+## Project Overview:
 Customer retention is one of the most critical challenges for subscription-based businesses. Acquiring a new customer is significantly more expensive than retaining an existing one. This project analyzes customer behavior using the IBM Telco Customer Churn dataset to identify the key factors contributing to customer churn and provide actionable business recommendations.
 
 The project demonstrates an end-to-end data analytics workflow using Python, SQL, Excel, and Power BI, including data cleaning, exploratory data analysis (EDA), KPI development, visualization, and business insights.
